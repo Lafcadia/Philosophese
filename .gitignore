@@ -1,0 +1,197 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow
+__pypackages__/
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+compile_commands.json
+Makefile
+Testing/
+
+# Poetry
+#   According to pypa/poetry#1915, it is recommended to include poetry.lock in version control.
+#   However, in case of collaboration, if having poetry.lock leaves your projects unable to run
+#   on other platforms or environments, you should include it here.
+#poetry.lock
+
+# Pylance (https://github.com/microsoft/pylance-release)
+#   Pylance is an optional plugin for Visual Studio Code that provides enhanced and
+#   additional features to the default Python extension for VS Code. To improve the
+#   performance of Pylance, you can include the following files in your .gitignore:
+.pylance/
+
+# Rope project settings
+.ropeproject
+
+# Sublime Text
+#   Cache files for Sublime Text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
+# Visual Studio Code
+.vscode/
+#   Uncomment the next line if you want to ignore the project settings from version control.
+#   /.vscode/settings.json
+#   Uncomment the next line if you want to ignore the workspace settings from version control.
+#   /.vscode/launch.json
+#   Uncomment the next line if you want to ignore the Visual Studio Code settings folder
+#   /.vscode/extensions/
+#   Uncomment the next line if you want to ignore the Visual Studio Code cache
+#   /.vscode/.*/.json
+#   Uncomment the next line if you want to ignore the Visual Studio Code backups folder
+#   /.vscode/*.bak
+
+# Vim
+#   Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+#   Session
+Session.vim
+#   Temporary
+.netrwhist
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
