@@ -26,7 +26,7 @@ print(philosophese.chs2phi(s2))
 def chs2phi(s, philo=0.5):
 ```
 
-s是原字符串，philo是0~1之间的实数，越大越哲♂学，表示每个词语被转化的概率。
+s 是原字符串，philo 是 0~1 之间的实数，越大越哲 ♂ 学，表示男魂出现的概率。
 
 
 ## 安装
