@@ -2,16 +2,16 @@ import setuptools
 
 
 setuptools.setup(
-    name='yinglish',
-    version='1.0.1',
-    author='RimoChan',
-    author_email='the@librian.net',
-    description='yinglish',
+    name='philosophese',
+    version='0.0.1',
+    author='Lafcadia',
+    author_email='chuishenx@oblivionocean.top',
+    description='Philosophese',
     long_description=open('readme.md', encoding='utf8').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/RimoChan/yinglish',
+    url='https://github.com/Lafcadia/Philosophese',
     packages=[
-        'yinglish',
+        'philosophese',
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
