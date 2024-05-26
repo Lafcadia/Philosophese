@@ -17,4 +17,5 @@ def chs2phi(s, philo=0.1):
     return ''.join(phi)
 
 if __name__ == '__main__':
-    print(chs2phi('务必要结婚，娶个好女人，你会很快乐，娶个坏女人，你会成为哲学家。',0.1))
+    print(chs2phi(input("请输入想要翻译为哲♂学文字的段落 > "),0.1))
+    input()
